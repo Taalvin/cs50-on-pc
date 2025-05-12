@@ -1,3 +1,0 @@
-NOTE: The python interpreter can be opened in the terminal by typing 
-      "python". 
-      To close the interpreter, press 'ctrl + z'.
